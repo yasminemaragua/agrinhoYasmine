@@ -1,1 +1,17 @@
+body()
+      margin:0pi;
+      padding:0px;
 
+}
+
+header{
+    beckground-color :darkgreen;
+    color: white;
+    header: 6em;
+}
+    
+    header h1{
+          font-size: 34px;
+          test-align:center;
+          font-family:sans-serif;
+    }
