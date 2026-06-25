@@ -1,7 +1,6 @@
 body()
-      margin:0pi;
+      margin:0px;
       padding:0px;
-
 }
 
 header{
@@ -12,6 +11,13 @@ header{
     
     header h1{
           font-size: 34px;
-          test-align:center;
+          text-align:center;
           font-family:sans-serif;
     }
+img{
+      width: ;
+      height: ;
+}
+header {
+      background-color: aquamarine;
+}     
